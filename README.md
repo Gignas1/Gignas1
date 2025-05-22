@@ -1,0 +1,4 @@
+- ⛏️ Minecraft Server Developer
+- Guns.lol: https://guns.lol/glock26
+- Beginner In Python
+- Advanced Plugin Configurator
